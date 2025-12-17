@@ -2,6 +2,7 @@ nltk
 wandb
 weave
 cohere
+rich
 frontmatter
 markdown
 bs4
