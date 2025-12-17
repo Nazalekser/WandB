@@ -1,2 +1,11 @@
 nltk
 wandb
+weave
+cohere
+frontmatter
+markdown
+bs4
+bm25s
+PyStemmer
+scikit-learn
+dotenv
