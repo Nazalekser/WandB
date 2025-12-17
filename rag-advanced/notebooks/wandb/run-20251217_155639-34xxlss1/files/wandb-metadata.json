@@ -1,0 +1,28 @@
+{
+  "os":  "Linux-6.8.0-1030-azure-x86_64-with-glibc2.39",
+  "python":  "CPython 3.12.1",
+  "startedAt":  "2025-12-17T15:56:39.032164Z",
+  "program":  "/workspaces/WandB/rag-advanced/notebooks/Chapter01.ipynb",
+  "codePath":  "/workspaces/WandB/rag-advanced/notebooks/Chapter01.ipynb",
+  "codePathLocal":  "Chapter01.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Nazalekser/WandB",
+    "commit":  "940a66eb507b7ccfba4913ffea6e06719285554f"
+  },
+  "email":  "nazalint@gmail.com",
+  "root":  "/workspaces/WandB/rag-advanced/notebooks",
+  "host":  "codespaces-280c55",
+  "executable":  "/workspaces/WandB/venv/bin/python",
+  "cpu_count":  1,
+  "cpu_count_logical":  2,
+  "disk":  {
+    "/":  {
+      "total":  "33636024320",
+      "used":  "15075987456"
+    }
+  },
+  "memory":  {
+    "total":  "8329543680"
+  },
+  "writerId":  "2x941j02vrcws9slbd1nhdvbhlk0hc67"
+}
